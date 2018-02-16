@@ -1,5 +1,10 @@
-
-
+####################################################################################
+#AUTOR: RAPHAEL DEMOSTENES CARDOZO - Email: raphaeldemostenes@gmail.com
+#MESTRANDO EM EDUCAÇÃO - PPGE- PE - UFPR
+#DATA INICIAL : 16/02/2018
+####################################################################################
+#   SCRIPT DE LISTA/DF DE CODIGOS E ESTADOS BRASILEIROS IBGE                       #
+####################################################################################
 
 #####################################
 #Cod. Estados                       #
